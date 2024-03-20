@@ -1,6 +1,6 @@
 # 대전이랑
 
-![대전 소개앱](https://www.notion.so/7444ce55d81d4364a1b9f15754018c9e?pvs=4#4cded56ee43b470fbe2974848e4f71d1)
+![image](https://github.com/Songyeonji/My-app/assets/104824428/7f0cdcfe-728f-4462-a841-9d5bb280f84e)
 
 대전, 종종 '노잼도시'라는 불명예스러운 별칭을 가지고 있지만, 실제로는 탐험할 가치가 넘치는 장소입니다. 이 앱은 대전의 숨겨진 매력을 발견하고, 그 고유의 가치를 재발견할 수 있도록 돕기 위해 만들어졌습니다.
 
@@ -24,11 +24,11 @@
 
 ## 시연 영상
 
-- [Flutter 버전 시연 영상](https://youtu.be/kLOoKNbOqPk)
+- [충청톤 발표 영상](https://youtu.be/kLOoKNbOqPk)
+
+- [Flutter 버전 시연 영상]
+![ㄴㅇㄹ](https://github.com/Songyeonji/My-app/assets/104824428/280cf49a-0f77-4aef-b6c7-80704878f39a)
 - React Native 버전 시연 영상
-
-    ![React Native 버전](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ab56ec5-d863-48b2-b142-c4eeee4d15f1/%EB%A6%AC%EC%95%A1%ED%8A%B8.gif)
-
 
 ## 앞으로의 발전 방향
 
@@ -46,19 +46,17 @@
 - **박은주, 정다은, 송연지**: React Native 개발 (Android)
 
 ## 기술 스택
-
 ### React Native
-![React Native](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e01d0629-a49a-4271-a38d-6553c4eca75e/Untitled.png): 크로스 플랫폼 모바일 앱 개발
+크로스 플랫폼 모바일 앱 개발
 
 ### Flutter
-![Flutter](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24c762b5-8338-4cc9-8b18-7d6623253c2e/Untitled.png): 모바일 앱 프론트엔드 개발
+모바일 앱 프론트엔드 개발
 
 ### Django REST Framework
-![Django REST Framework](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f349f242-cc13-4a29-9096-b6fc4a4f0bcd/Untitled.png): 백엔드 API 서버 개발
+백엔드 API 서버 개발
 
 ### DBMS
-![DBMS](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02b152eb-2bcf-41a0-ac1d-3b6531f688e7/Untitled.png):데이터 관리 및 저장
+데이터 관리 및 저장
 
 ### AWS
-![AWS](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f59470a-83f8-454c-b730-59671f3918d3/Untitled.png): 클라우드 인프라 및 서비스 호스팅
-
+클라우드 인프라 및 서비스 호스팅
