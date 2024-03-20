@@ -29,13 +29,6 @@
 
     ![React Native 버전](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ab56ec5-d863-48b2-b142-c4eeee4d15f1/%EB%A6%AC%EC%95%A1%ED%8A%B8.gif)
 
-## 기술 스택
-
-- **Flutter**: 모바일 앱 프론트엔드 개발
-- **React Native**: 크로스 플랫폼 모바일 앱 개발
-- **Django REST Framework**: 백엔드 API 서버 개발
-- **AWS**: 클라우드 인프라 및 서비스 호스팅
-- **DBMS**: 데이터 관리 및 저장
 
 ## 앞으로의 발전 방향
 
@@ -45,5 +38,27 @@
 - **사용자 인증 및 리뷰 기능**: 커뮤니티 활성화를 위한 로그인 및 리뷰 기능 도입
 - **맞춤형 알림 서비스**: 사용자의 관심사에 맞는 정보를 제공하기 위한 알람 기능 구현
 
-## 팀원 소개
+## 팀원 소개 및 역할
+
+- **오예찬**: 기획 리드, API 서버 개발, DB 서버 구축, 데이터 수집 및 정제
+- **이영재, 송민지**: 데이터 수집 및 정제
+- **안건**: Flutter 개발 (iOS)
+- **박은주, 정다은, 송연지**: React Native 개발 (Android)
+
+## 기술 스택
+
+### React Native
+![React Native](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e01d0629-a49a-4271-a38d-6553c4eca75e/Untitled.png): 크로스 플랫폼 모바일 앱 개발
+
+### Flutter
+![Flutter](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24c762b5-8338-4cc9-8b18-7d6623253c2e/Untitled.png): 모바일 앱 프론트엔드 개발
+
+### Django REST Framework
+![Django REST Framework](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f349f242-cc13-4a29-9096-b6fc4a4f0bcd/Untitled.png): 백엔드 API 서버 개발
+
+### DBMS
+![DBMS](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02b152eb-2bcf-41a0-ac1d-3b6531f688e7/Untitled.png):데이터 관리 및 저장
+
+### AWS
+![AWS](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f59470a-83f8-454c-b730-59671f3918d3/Untitled.png): 클라우드 인프라 및 서비스 호스팅
 
