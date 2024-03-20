@@ -29,7 +29,7 @@
 - [Flutter 버전 시연 영상]
 ![ㄴㅇㄹ](https://github.com/Songyeonji/My-app/assets/104824428/280cf49a-0f77-4aef-b6c7-80704878f39a)
 - React Native 버전 시연 영상
-
+![ㄴㅇㄹ](https://github.com/Songyeonji/My-app/assets/104824428/280cf49a-0f77-4aef-b6c7-80704878f39a)
 ## 앞으로의 발전 방향
 
 - **이미지 데이터 최적화**: cached_network_image 라이브러리를 활용해 이미지 로드 속도 개선
