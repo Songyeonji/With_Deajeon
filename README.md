@@ -1,6 +1,6 @@
 # 대전이랑
 
-![대전 소개앱](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/502999e6-20ce-40b3-a3e8-b3d37bad0eb9/%EB%8C%80%EC%A0%84_%EC%86%8C%EA%B0%9C%EC%95%B1.png)
+![대전 소개앱](https://www.notion.so/7444ce55d81d4364a1b9f15754018c9e?pvs=4#4cded56ee43b470fbe2974848e4f71d1)
 
 대전, 종종 '노잼도시'라는 불명예스러운 별칭을 가지고 있지만, 실제로는 탐험할 가치가 넘치는 장소입니다. 이 앱은 대전의 숨겨진 매력을 발견하고, 그 고유의 가치를 재발견할 수 있도록 돕기 위해 만들어졌습니다.
 
