@@ -2,6 +2,8 @@
 
 ![image](https://github.com/Songyeonji/My-app/assets/104824428/7f0cdcfe-728f-4462-a841-9d5bb280f84e)
 
+[Notion 문서 바로가기](https://www.notion.so/7444ce55d81d4364a1b9f15754018c9e?pvs=4)
+
 대전, 종종 '노잼도시'라는 불명예스러운 별칭을 가지고 있지만, 실제로는 탐험할 가치가 넘치는 장소입니다. 이 앱은 대전의 숨겨진 매력을 발견하고, 그 고유의 가치를 재발견할 수 있도록 돕기 위해 만들어졌습니다.
 
 ## 프로젝트 개요
@@ -10,7 +12,7 @@
 - **플랫폼**: Flutter (iOS 기준), React Native (Android 기준), Django REST Framework, AWS
 - **팀원**: 오예찬, 이영재, 송민지, 안건, 박은주, 정다은, 송연지
 
-![대전이랑 로고](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/798b47da-f1d0-46f5-ae3f-577f056afa40/Icon_LOGO.png)
+
 
 ## 핵심 기능
 
@@ -26,8 +28,8 @@
 
 - [충청톤 발표 영상](https://youtu.be/kLOoKNbOqPk)
 
-- [Flutter 버전 시연 영상]
-![ㄴㅇㄹ](https://github.com/Songyeonji/My-app/assets/104824428/280cf49a-0f77-4aef-b6c7-80704878f39a)
+- Flutter 버전 시연 영상
+  (https://github.com/Songyeonji/My-app/assets/104824428/280cf49a-0f77-4aef-b6c7-80704878f39a)
 - React Native 버전 시연 영상
 ![ㄴㅇㄹ](https://github.com/Songyeonji/My-app/assets/104824428/280cf49a-0f77-4aef-b6c7-80704878f39a)
 ## 앞으로의 발전 방향
